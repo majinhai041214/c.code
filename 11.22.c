@@ -15,7 +15,7 @@ int main()
     do
     {
         scanf("%d",&number);
-        if(number!=-1)
+        if(number=-1)
         {
            add(head,number);
         }
